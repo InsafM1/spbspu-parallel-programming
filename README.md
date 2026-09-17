@@ -1,0 +1,1 @@
+# spbspu-parallel-programming
